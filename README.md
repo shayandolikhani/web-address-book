@@ -13,6 +13,9 @@ npm install
 node server.js
 ```
 
+## Run Web App
+Finished project is in folder `final`, to run open `final/index.html` using live server or preferred method after installing dependencies and starting server.
+
 ## URL Endpoints
 **Mockup:**
 http://localhost:8080/mockup/
