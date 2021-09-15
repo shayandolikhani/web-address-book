@@ -11,6 +11,13 @@
             "education": [
                 {
                     "institution": "NC State University",
+                    "startYear": 2004,
+                    "endYear": 2005,
+                    "degree": "Master's, Computer Science"
+                },
+
+                {
+                    "institution": "NC State University",
                     "startYear": 2001,
                     "endYear": 2004,
                     "degree": "Bachelor's, Computer Science"
@@ -22,12 +29,19 @@
                     "institution": "Megacorp",
                     "startYear": 2001,
                     "title": "Software Developer"
+                },
+
+                {
+                    "institution": "Umbrella Corp",
+                    "startYear": 1980,
+                    "endYear": 2001,
+                    "title": "Software Developer"
                 }
             ]
         },
         {
             "name": "Joe Manfrey",
-            "img": "https://profilemagazine.com/wp-content/uploads/2020/04/Ajmere-Dale-Square-thumbnail.jpg",
+            "img": "https://dstudiosphotography.com/wp-content/uploads/2019/01/Corporate-Headshots-3-square.jpg",
             "contactInfo": {
                 "position": "Strategic Sales",
                 "phoneNumber": "919-555-5555",
@@ -52,7 +66,7 @@
         },
         {
             "name": "Douglas Cho",
-            "img": "https://profilemagazine.com/wp-content/uploads/2020/04/Ajmere-Dale-Square-thumbnail.jpg",
+            "img": "https://thumbs.dreamstime.com/b/professional-headshot-man-closeup-portrait-smiling-happy-handsome-purple-sweater-v-neck-wearing-black-glasses-isolated-inside-56247494.jpg",
             "contactInfo": {
                 "position": "Strategic Sales",
                 "phoneNumber": "919-555-5555",
@@ -77,11 +91,11 @@
         },
         {
             "name": "Allison Murray",
-            "img": "https://profilemagazine.com/wp-content/uploads/2020/04/Ajmere-Dale-Square-thumbnail.jpg",
+            "img": "https://blog.bluesunvacations.com/wp-content/uploads/2015/08/square-profile-photo.jpg",
             "contactInfo": {
-                "position": "Strategic Sales",
-                "phoneNumber": "919-555-5555",
-                "emailAddress": "adam.wright@mycompany.com"
+                "position": "Software Developer",
+                "phoneNumber": "919-434-5432",
+                "emailAddress": "allison.murray@mycompany.com"
             },
             "education": [
                 {
@@ -103,7 +117,7 @@
 
         {
             "name": "Kamran Cooke",
-            "img": "https://profilemagazine.com/wp-content/uploads/2020/04/Ajmere-Dale-Square-thumbnail.jpg",
+            "img": "https://2d3z3x4e2xrx130kvm2hxdsp-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/Tracy_Wright_Corvo_Photography_actor_headshot-16.jpg",
             "contactInfo": {
                 "position": "Strategic Sales",
                 "phoneNumber": "919-555-5555",
@@ -129,7 +143,7 @@
 
         {
             "name": "Ruby-Leigh Colley",
-            "img": "https://profilemagazine.com/wp-content/uploads/2020/04/Ajmere-Dale-Square-thumbnail.jpg",
+            "img": "https://www.jonbradley.co.uk/wp-content/uploads/2020/08/BUSINESS-HEADSHOTS-ADDITIONAL-IMAGE-3.jpg",
             "contactInfo": {
                 "position": "Strategic Sales",
                 "phoneNumber": "919-555-5555",
@@ -155,7 +169,7 @@
 
         {
             "name": "Huey Gonzalez",
-            "img": "https://profilemagazine.com/wp-content/uploads/2020/04/Ajmere-Dale-Square-thumbnail.jpg",
+            "img": "https://www.kirbypartners.com/wp-content/uploads/2021/01/iStock-157740802-1024x1024.jpg",
             "contactInfo": {
                 "position": "Strategic Sales",
                 "phoneNumber": "919-555-5555",
@@ -181,7 +195,7 @@
 
         {
             "name": "Nawal Willis",
-            "img": "https://profilemagazine.com/wp-content/uploads/2020/04/Ajmere-Dale-Square-thumbnail.jpg",
+            "img": "https://images.squarespace-cdn.com/content/v1/5ec689480cc22c2d441e152f/1611673598055-Q5ADEMR3P9WV90ZGO958/professional-headshot-photographer-westport-connecticut.jpg",
             "contactInfo": {
                 "position": "Strategic Sales",
                 "phoneNumber": "919-555-5555",
@@ -207,7 +221,7 @@
 
         {
             "name": "Rhianna Bostock",
-            "img": "https://profilemagazine.com/wp-content/uploads/2020/04/Ajmere-Dale-Square-thumbnail.jpg",
+            "img": "https://az505806.vo.msecnd.net/cms/49bcf23b-16f2-47a8-8571-a6a360910814/6bb979a4-fc50-40ba-9780-9454bccc30be.jpg",
             "contactInfo": {
                 "position": "Strategic Sales",
                 "phoneNumber": "919-555-5555",
@@ -233,7 +247,7 @@
 
         {
             "name": "Lillie-Rose Hardy",
-            "img": "https://profilemagazine.com/wp-content/uploads/2020/04/Ajmere-Dale-Square-thumbnail.jpg",
+            "img": "https://images.squarespace-cdn.com/content/v1/56799419df40f3a52654773e/1515014375027-BB9TDBGB6FLF40S52HAY/_MG_1255.jpg",
             "contactInfo": {
                 "position": "Strategic Sales",
                 "phoneNumber": "919-555-5555",
@@ -259,7 +273,7 @@
 
         {
             "name": "Murphy Allman",
-            "img": "https://profilemagazine.com/wp-content/uploads/2020/04/Ajmere-Dale-Square-thumbnail.jpg",
+            "img": "https://www.stevencottonphotography.com/wp-content/uploads/2018/09/05-1981-post/Goldratt_Consulting_Headshots_081618_High_Res-121%28pp_w1200_h800%29.jpg",
             "contactInfo": {
                 "position": "Strategic Sales",
                 "phoneNumber": "919-555-5555",
@@ -285,7 +299,7 @@
 
         {
             "name": "Gabrielle Barr",
-            "img": "https://profilemagazine.com/wp-content/uploads/2020/04/Ajmere-Dale-Square-thumbnail.jpg",
+            "img": "https://st2.depositphotos.com/1054749/6808/i/600/depositphotos_68088663-stock-photo-portrait-of-a-young-african.jpg",
             "contactInfo": {
                 "position": "Strategic Sales",
                 "phoneNumber": "919-555-5555",
@@ -311,7 +325,7 @@
 
         {
             "name": "Corinne Kay",
-            "img": "https://profilemagazine.com/wp-content/uploads/2020/04/Ajmere-Dale-Square-thumbnail.jpg",
+            "img": "https://wrisenergy.org/wp-content/uploads/2019/06/Professional-headshot-square.jpg",
             "contactInfo": {
                 "position": "Strategic Sales",
                 "phoneNumber": "919-555-5555",
@@ -337,7 +351,7 @@
 
         {
             "name": "Sherri Davey",
-            "img": "https://profilemagazine.com/wp-content/uploads/2020/04/Ajmere-Dale-Square-thumbnail.jpg",
+            "img": "https://www.mmm-online.com/wp-content/uploads/sites/2/2021/05/Wallye_feature_image.jpg",
             "contactInfo": {
                 "position": "Strategic Sales",
                 "phoneNumber": "919-555-5555",
