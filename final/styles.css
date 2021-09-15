@@ -1,0 +1,113 @@
+.navbar {
+    background-color: #1D1E2C;
+    color: #FFFFFF;
+}
+
+.contacts {
+    margin-top: 5px;
+    height: 88vh;
+    overflow-y: scroll;
+}
+
+.sortflex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.btn {
+    height: 40px;
+    background-color: #8D94BA;
+    border: none;   
+}
+
+.btn:hover {
+    background-color: #1D1E2C;
+}
+
+.btn:active {
+    border: none;
+    box-shadow: none;
+}
+
+.btn:focus {
+    border: none;
+    background-color: #1D1E2C;
+    box-shadow: none;
+}
+
+.card-header {
+    display: flex;
+    flex-direction: row;
+}
+.contactname {
+    margin-top: 10px;
+    margin-left: 10px;
+    color: #1D1E2C;
+}
+
+.photo {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+.list-group-item {
+    width: auto;
+    padding-right: 100px;
+}
+
+.contact {
+    margin-top: 15px;
+}
+
+.card-title {
+    margin-bottom: 20px;
+    font-weight: bold;
+    color: #1D1E2C;
+}
+
+h5 {
+    color: #1D1E2C;
+    font-weight: bold;
+}
+
+.contactinfo {
+    font-size: small;
+    margin-top: -12px;
+}
+
+.flexrow {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+    font-size: small;
+}
+
+.date {
+    flex: none;
+    padding-right: 20px;
+    font-weight: bold;
+    width: 125px;
+}
+
+.itembody {
+    flex-grow: 1;
+}
+
+.location {
+    font-weight: bold;
+}
+
+.list-group-item.active {
+    background-color: #1D1E2C;
+    color: #FFFFFF;
+    border: none;
+}
+
+.list-group-item:not(.active):hover {
+    background-color: #8D94BA;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+

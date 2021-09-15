@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Address Book</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+    <link href="styles.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="container-fluid">
+                <span class="navbar-brand h1">Address Book</span>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-3">
+                    <ul class="list-group contacts" id = "contacts">
+                        <div class = "sortflex">
+                            <h1>A</h1>
+                            <input class="btn btn-primary" type="button" value="A-Z ↓">
+                        </div>
+                        <li class="list-group-item active" aria-current="true">An item</li>
+                        <li class="list-group-item">A second item</li>
+                        <li class="list-group-item">A third item</li>
+                        <li class="list-group-item">A fourth item</li>
+                        <li class="list-group-item">And a fifth one</li>
+                        <li class="list-group-item">An item</li>
+                        <li class="list-group-item">A second item</li>
+                        <li class="list-group-item">A third item</li>
+                        <li class="list-group-item">A fourth item</li>
+                        <h1>B</h1>
+                        <li class="list-group-item">And a fifth one</li>
+                        <li class="list-group-item">An item</li>
+                        <li class="list-group-item">A second item</li>
+                        <li class="list-group-item">A third item</li>
+                        <li class="list-group-item">A fourth item</li>
+                        <li class="list-group-item">And a fifth one</li>
+                        <li class="list-group-item">An item</li>
+                        <li class="list-group-item">A second item</li>
+                        <li class="list-group-item">A third item</li>
+                        <li class="list-group-item">A fourth item</li>
+                        <li class="list-group-item">And a fifth one</li>
+                    </ul>
+                </div>
+                <div class="col-9 contact">
+                    <div class="card w-100">
+                        <div class="card-header">
+                            <img class="photo"
+                                src="https://cdn.luxe.digital/media/2019/09/12090502/business-professional-dress-code-men-style-luxe-digital.jpg"
+                                alt="contact photo">
+                            <div class="headerinfo">
+                                <h2 class="contactname">Adam Smith</h2>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">Contact Info</h5>
+                            <p class = "contactinfo">Strategic Sales</p>
+                            <p class = "contactinfo">919-670-7680</p>
+                            <p class = "contactinfo"><a href="mailto:webmaster@example.com">email@email.com</a></p>
+                            <br>
+                            <h5>Education</h5>
+                            <div class="flexrow">
+                                <p class="date">2004-2005</p>
+                                <div class="itembody"><div class = "location">NC State University</div>
+                                    Master's, Computer Science
+                                </div>
+                            </div>
+
+                            <div class="flexrow">
+                                <p class="date">2001-2004</p>
+                                <div class="itembody"><div class = "location">NC State University</div>
+                                    Bachelor's, Computer Science
+                                </div>
+                            </div>
+                            <h5>Experience</h5>
+                            <div class="flexrow">
+                                <p class="date">2001-Present</p>
+                                <div class="itembody"><div class = "location">Megacorp</div>
+                                    Software Engineer
+                                </div>
+                            </div>
+                            <div class="flexrow">
+                                <p class="date">1980-2001</p>
+                                <div class="itembody"><div class = "location">Umbrella Corp</div>
+                                    Software Engineer
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </main>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous">
+    </script>
+
+    <script type="module" src="render.js"></script>
+</body>
+
+</html>
